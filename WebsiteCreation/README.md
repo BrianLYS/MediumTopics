@@ -13,5 +13,5 @@ If you understand the assignment, reply 'I understand' only.
 After I reply with 'proceed' and 'theme of the website', you may continue to show me the commands used, file structure of the project and codes in the relevant files that you used to create the website.
 ```
 
-link to the assignment:
-[link](https://www.example.com/my%20great%20page)
+link to the medium article:
+[link](https://medium.com/@brianlimyisheng1997/heres-how-you-can-use-gpt-4-to-generate-a-website-b0da14ccaf31)
